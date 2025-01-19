@@ -62,11 +62,11 @@ After loading the data, select option `2` to analyze the stock data. The analysi
 
 ```bash
 Strategy Performance:
-datetime
-2025-01-01    1.0150
-2025-01-02    1.0255
-2025-01-03    1.0382
-...
+1210    0.601602
+1211    0.618119
+1212    0.615991
+1213    0.610355
+1214    0.602331
 ```
 
 ### Test Cases
@@ -92,3 +92,6 @@ python test_case.py
 ├── test_case.py     # Unit tests for data validation
 └── README.md        # Project documentation
 ```
+## Image 
+![Screenshot 2025-01-19 173536](https://github.com/user-attachments/assets/90af3a85-1d3d-453c-b426-2dfbab55e8ba)
+![Screenshot 2025-01-19 174737](https://github.com/user-attachments/assets/8d0a46ac-a28b-4aac-98da-79b91ad1f528)
