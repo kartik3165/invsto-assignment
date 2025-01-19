@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your project:
-
----
-
 # Stock Data Analysis and Trading Strategy
 
 This project loads stock data from a Google Sheet, inserts it into a MySQL database, and then performs a trading strategy analysis. It calculates short and long moving averages (SMA), generates buy/sell signals, and compares the performance of the strategy with the market.
@@ -96,11 +92,3 @@ python test_case.py
 ├── test_case.py     # Unit tests for data validation
 └── README.md        # Project documentation
 ```
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-This README provides an overview of the project, installation instructions, usage details, and a brief description of the included unit tests. Feel free to modify it to suit any additional information specific to your project!
